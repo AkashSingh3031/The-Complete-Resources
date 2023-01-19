@@ -1,0 +1,6 @@
+[submodule "Complete-LeetCode-Solution"]
+	path = Complete-LeetCode-Solution
+	url = git@github.com:AkashSingh3031/Complete-LeetCode-Solution.git
+[submodule "Complete-GFG-Solution"]
+	path = Complete-GFG-Solution
+	url = git@github.com:AkashSingh3031/Complete-GFG-Solution.git
